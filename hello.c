@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("Hello");
+    printf("Helo");
     return 0;
 }
